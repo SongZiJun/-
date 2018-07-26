@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/hxintro/hxintro"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#4454ff",
+    "navigationBarTitleText": "华信导览",
+    "navigationBarTextStyle": "write"
+  }
+}
